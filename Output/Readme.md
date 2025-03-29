@@ -1,5 +1,3 @@
-# Travel Plan Generator - README
-
 ## Final Set of Prompts Used
 
 ### System Prompt:
