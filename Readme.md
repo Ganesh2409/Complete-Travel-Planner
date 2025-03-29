@@ -50,6 +50,10 @@ echo "GEMINI_API_KEY='your_api_key'" > ~/.streamlit/secrets.toml
 streamlit run app.py
 ```
 
+## 🌐 Accessing the Deployed App
+You can access the deployed app using the following link:
+[Complete Travel Planner](https://complete-travel-planner-gemini.streamlit.app/)
+
 ## 📖 Documentation
 
 ### How It Works
@@ -78,3 +82,4 @@ streamlit run app.py
 © 2025 Complete-Travel-Planner . Made with ❤️
 ```
 
+```
