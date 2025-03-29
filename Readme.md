@@ -80,6 +80,4 @@ You can access the deployed app using the following link:
 - **Email:** pinnamaneniganesh24@gmail.com
  ```
 © 2025 Complete-Travel-Planner . Made with ❤️
-```
 
-```
