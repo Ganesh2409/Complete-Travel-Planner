@@ -72,6 +72,9 @@ streamlit run app.py
 5. Open a Pull Request
 
 ## 📫 Contact
-- **GitHub:** [yourusername](https://github.com/Ganesh2409)
-- **Email:** your.email@example.com
+- **GitHub:** [Ganesh2409](https://github.com/Ganesh2409)
+- **Email:** pinnamaneniganesh24@gmail.com
+ ```
+© 2025 Complete-Travel-Planner . Made with ❤️
+```
 
